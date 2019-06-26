@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/Imagens">
+        <file>Resource/colors_1014.png</file>
+        <file>Resource/cube_79255.svg</file>
+        <file>Resource/elipse256_25236.png</file>
+        <file>Resource/new_page_document_16676.png</file>
+        <file>Resource/sistema_coordenadas_1.png</file>
+        <file>Resource/sphere-3d-object-geometry_108591.svg</file>
+        <file>Resource/Custom-Icon-Design-Pretty-Office-7-Save.ico</file>
+        <file>Resource/kZkgb.png</file>
+        <file>Resource/34550-200.png</file>
+        <file>Resource/_png_171458-200.png</file>
+        <file>Resource/voxel.png</file>
+        <file>Resource/pincel.png</file>
+        <file>Resource/Eraser-2.png</file>
+        <file>Resource/open.png</file>
+        <file>Resource/_pngs_m_5-59840_download-svg-download-png-open-file-icon-png.png</file>
+        <file>Resource/brush.png</file>
+        <file>Resource/4d9644e71ac.png</file>
+    </qresource>
+</RCC>
